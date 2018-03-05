@@ -3,7 +3,7 @@
  ** Author: Min Chew
  ** Date: 25 February 2018
  ** Description: This is a program of the dice game Farkle
- ** Input: Number of players, dice to keep, continuation of turn 
+ ** Input: Number of players, which combination, continuation of turn 
  ** Output: The game commences
  **********************************************************************/
 
