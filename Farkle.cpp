@@ -905,7 +905,7 @@ bool taking_turns(int* total_scoreboard, int num_Players) {
 }
 
 
-int main() {                                                                       // when to use single/double pointer 
+int main() {                                                                       
 	cout << endl << "Welcome to the game Farkle!" << endl;	
 	int num_Players = number_Players();
 	int total_scoreboard[num_Players];
